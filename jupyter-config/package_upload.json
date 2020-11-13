@@ -1,0 +1,7 @@
+{
+  "NotebookApp": {
+    "nbserver_extensions": {
+      "package_upload": true
+    }
+  }
+}
